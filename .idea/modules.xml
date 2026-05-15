@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArCondicionado/ArCondicionado.iml" filepath="$PROJECT_DIR$/ArCondicionado/ArCondicionado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Associacao Todo Parte.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Associacao Todo Parte.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Exercicio 02/Exercicio 02.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Exercicio 02/Exercicio 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Exercicio 03/Exercicio 03.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Exercicio 03/Exercicio 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Exercicio 04/Exercicio 04.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Exercicio 04/Exercicio 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Exercicio 05/Exercicio 05.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Exercicio 05/Exercicio 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Exercicio 06/Exercicio 06.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Exercicio 06/Exercicio 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Exercicio 07/Exercicio 07.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Exercicio 07/Exercicio 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao Todo Parte/Exercicio 08/Exercicio 08.iml" filepath="$PROJECT_DIR$/Associacao Todo Parte/Exercicio 08/Exercicio 08.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/POO-2026.iml" filepath="$PROJECT_DIR$/.idea/POO-2026.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema de Veiculos/Sistema de Veiculos.iml" filepath="$PROJECT_DIR$/Sistema de Veiculos/Sistema de Veiculos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodaParte/TodaParte.iml" filepath="$PROJECT_DIR$/TodaParte/TodaParte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodoParte/TodoParte.iml" filepath="$PROJECT_DIR$/TodoParte/TodoParte.iml" />
     </modules>
   </component>
 </project>
